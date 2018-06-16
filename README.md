@@ -17,5 +17,13 @@
  
  Вы можете спарсить любой другой хаб, просто заменив ссылки на нужный хаб в файле habr_spider.py в переменной 'allowed_domains' и 'start_urls'
  
+ Использовал:
+  - python3.6
+  - scrapy
+  - pandas
+  - subprocess
+  
  
 Специально для Otus.ru в качестве дз.
+
+https://youtu.be/huQK5OuEGIo - ссылка на процесс работы скрипта
